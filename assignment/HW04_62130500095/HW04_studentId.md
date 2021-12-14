@@ -1,6 +1,6 @@
 # R-Assignment 4
 
-**Created by Name-Surname (ID: 62130500095)**
+**Created by Sitthinon Srivimolthut (ID: 62130500095)**
 
 Dataset: Superstore Sales Dataset (Data from Rohit Sahoo,[Kaggle](https://www.kaggle.com/rohitsahoo/sales-forecasting)) >> [Using CSV](https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/superstore_sales.csv)
 
